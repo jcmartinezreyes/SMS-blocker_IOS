@@ -18,11 +18,14 @@
 -   **Sincronización en Tiempo Real:** Los filtros se guardan y se sincronizan instantáneamente con la extensión de filtrado de mensajes de iOS.
 -   **Privacidad Primero:** Todo el procesamiento se realiza de forma local en tu dispositivo. Tus mensajes nunca salen de tu teléfono.
 
+
+
 ## 📸 Capturas de Pantalla
 
 | Vista Principal | Alerta para Añadir Filtro |
 | :-------------: | :-----------------------: |
-| ![Vista Principal de SMS Blocker](https://github.com/jcmartinezreyes/SMS-blocker_IOS/blob/main/images/688022AB-32AD-4582-B868-7653FAC75960_4_5005_c.jpeg) | ![Añadir un nuevo filtro](Uhttps://github.com/jcmartinezreyes/SMS-blocker_IOS/blob/main/images/20AA41E0-E372-4996-A861-3D55EDED9FF8_4_5005_c.jpeg) |
+| <img src="https://github.com/jcmartinezreyes/SMS-blocker_IOS/raw/main/images/688022AB-32AD-4582-B868-7653FAC75960_4_5005_c.jpeg" width="250"> | <img src="https://github.com/jcmartinezreyes/SMS-blocker_IOS/raw/main/images/20AA41E0-E372-4996-A861-3D55EDED9FF8_4_5005_c.jpeg" width="250"> |
+
 
 ## 🛠️ Cómo Funciona
 
@@ -77,4 +80,4 @@ Una vez instalada en tu iPhone, debes habilitar el filtro de mensajes:
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ---
-[Cristopher Martinez Reyes](https://www.linkedin.com/in/jcmartinezreyes/)
+[Cristopher Martinez Reyes - Linkedin](https://www.linkedin.com/in/jcmartinezreyes/)
