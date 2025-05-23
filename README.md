@@ -1,6 +1,14 @@
 # SMS Blocker para iOS
 
-![SMS Blocker Icon](https://github.com/jcmartinezreyes/SMS-blocker_IOS/blob/main/images/31D539A6-8C4C-46E8-A627-1625B511AA24_1_105_c.jpeg) SMS Blocker es una sencilla pero potente aplicación para iOS diseñada para ayudarte a recuperar el control de tu bandeja de entrada de mensajes. Añade palabras clave o frases a tu lista de filtros y la aplicación bloqueará automáticamente los mensajes SMS/MMS no deseados que las contengan.
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/jcmartinezreyes/SMS-blocker_IOS/raw/main/images/31D539A6-8C4C-46E8-A627-1625B511AA24_1_105_c.jpeg" alt="SMS Blocker Icon" width="128"/>
+  <div>
+    <h3>SMS Blocker para iOS</h3>
+    <p>SMS Blocker es una sencilla pero potente aplicación para iOS diseñada para ayudarte a recuperar el control de tu bandeja de entrada de mensajes. Añade palabras clave o frases a tu lista de filtros y la aplicación bloqueará automáticamente los mensajes SMS/MMS no deseados que las contengan.</p>
+  </div>
+</div>
+
 
 ## ✨ Características
 
